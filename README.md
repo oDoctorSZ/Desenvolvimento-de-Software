@@ -85,12 +85,12 @@ Gestão de Consultas: O administrador pode gerenciar consultas, seja confirmando
 
 Estatísticas do Sistema: O administrador pode acessar estatísticas, como o número de moradores e consultas realizadas.
 
-4. Tecnologias Utilizadas
+Tecnologias Utilizadas
 Java: A linguagem principal usada para o desenvolvimento do sistema.
 JDK: A versão 11 ou superior é recomendada para compilar e rodar o sistema.
 Biblioteca de E-mail: Para envio de notificações por e-mail (quando implementado).
 
-5. Fluxo de Execução
+Fluxo de Execução
 Administração de Moradores: O administrador pode gerenciar os moradores, incluindo a adição e a remoção, além de visualizar suas informações.
 Gestão de Consultas: O administrador e os moradores podem interagir com consultas, como agendamentos, confirmações, cancelamentos e alterações.
 Cadastro e Acompanhamento de Vacinas: Profissionais de saúde registram vacinas, e os moradores recebem as notificações pertinentes.
