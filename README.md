@@ -1,4 +1,4 @@
-Documentação Técnica do Sistema de Gestão de Saúde Comunitária
+Documentação Técnica do Sistema
 1. Visão Geral do Sistema
 O sistema de gestão de saúde comunitária tem como objetivo otimizar a administração dos serviços de saúde em comunidades locais. Ele permite o gerenciamento de consultas médicas, vacinas, moradores e profissionais de saúde, garantindo um controle eficiente e um melhor acesso às informações de saúde. O sistema é projetado para facilitar agendamentos, notificações de vacinas e administração de dados dos usuários.
 
